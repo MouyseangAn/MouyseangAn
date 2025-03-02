@@ -18,7 +18,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Dean's List</b>: Recognition for outstanding academic achievement .</li>
   <li><b>1st place of 2024 Inclusive Excellence Case Competition </b>: Awarded for exceptional teamwork and problem-solving.</li>
 </ul>
-<a href="#Projects">See my projects</a>
+
 <a name="Projects"></a>
 <hr>
 
