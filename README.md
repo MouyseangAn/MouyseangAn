@@ -2,6 +2,10 @@
 <hr>
 
 ## Hello! Here are a little a bit about me:
+<a href="#education">Go to Education</a> | 
+<a href="#Projects">Go to Projects</a> | 
+<a href="#profExp">Go to Jobs and Internships</a> |
+<a href="#skills">Go to Skills</a>
 
 <a name="education"></a>
 <hr>
@@ -13,10 +17,18 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <ul>
   <li><b>Dean's List</b>: Recognition for outstanding academic achievement .</li>
   <li><b>1st place of 2024 Inclusive Excellence Case Competition </b>: Awarded for exceptional teamwork and problem-solving.</li>
-
+</ul>
+<a href="#Projects">See my projects</a>
 <a name="Projects"></a>
+<hr>
+
 ## Projects
-See my projects throughout the courses: 
+<p>Here are some of my projects throughout the courses:</p>
+<ul>
+  <li><a href="https://github.com/MouyseangAn/Sephora-Website-Data-Analysis-Project">Project 1: Sephora Data Analysis</a></li>
+  <li><a href="https://github.com/MouyseangAn/NHL-for-Newbies-Blog">Project 2:From Newbie to Know-it-all: The Hockey Game </a></li>
+</ul>
+
 <a name="profExp"></a>
 <hr>
 
