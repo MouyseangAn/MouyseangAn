@@ -27,6 +27,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <ul>
   <li><a href="https://github.com/MouyseangAn/Sephora-Website-Data-Analysis-Project">Project 1: Sephora Data Analysis</a></li>
   <li><a href="https://github.com/MouyseangAn/NHL-for-Newbies-Blog">Project 2:From Newbie to Know-it-all: The Hockey Game </a></li>
+  <li><a href="https://github.com/MouyseangAn/Outfit-Color-Suggestion">Project 3: Outfit Color Suggestion</a></li>
 </ul>
 
 <a name="profExp"></a>
