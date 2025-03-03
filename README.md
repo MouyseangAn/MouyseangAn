@@ -6,6 +6,8 @@
 <a href="#Projects">Go to Projects</a> | 
 <a href="#profExp">Go to Jobs and Internships</a> |
 <a href="#skills">Go to Skills</a>
+<hr>
+A multicultural data analyst who leverages quantitative methods and data visualization to identify trends and outliers, driving targeted business solutions. I seek opportunities to work in high-performance teams where data-driven insights lead to strategic impact and rapid return on investment.
 
 <a name="education"></a>
 <hr>
