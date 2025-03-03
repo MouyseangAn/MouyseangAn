@@ -1,7 +1,7 @@
 <a name="top"></a>
 <hr>
 
-## Hello! Here are a little a bit about me:
+## Hello! This is my background:
 <a href="#education">Go to Education</a> | 
 <a href="#Projects">Go to Projects</a> | 
 <a href="#profExp">Go to Jobs and Internships</a> |
