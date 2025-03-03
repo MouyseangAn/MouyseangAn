@@ -4,23 +4,28 @@
 ## Hello! This is my background:
 <a href="#education">Go to Education</a> | 
 <a href="#Projects">Go to Projects</a> | 
-<a href="#profExp">Go to Jobs and Internships</a> |
-<a href="#skills">Go to Skills</a> |
-<a href="#skills">Go to Extracurricular</a>
+<a href="#profExp">Go to Jobs and Internships</a> | 
+<a href="#skills">Go to Skills</a> | 
+<a href="#Extracurricular">Go to Extracurricular</a>
 <hr>
+
 A multicultural data analyst who leverages quantitative methods and data visualization to identify trends and outliers, driving targeted business solutions. I seek opportunities to work in high-performance teams where data-driven insights lead to strategic impact and rapid return on investment.
 
 <a name="education"></a>
 <hr>
 
 ## Education
-### University of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Business Information and Analytics, Expected Graduation June 2025
+### University of Denver, Daniels College of Business  
+**Bachelor of Science Business Administration – Business Information and Analytics**  
+*Expected Graduation: June 2025*  
 
 <ul>
-  <li><b>Dean's List</b>: Recognition for outstanding academic achievement .</li>
-  <li><b>1st place of 2024 Inclusive Excellence Case Competition </b>: Awarded for exceptional teamwork and problem-solving.</li>
+  <li><b>Dean's List</b>: Recognition for outstanding academic achievement.</li>
+  <li><b>1st place in the 2024 Inclusive Excellence Case Competition</b>: Awarded for exceptional teamwork and problem-solving.</li>
 </ul>
+
+➡️ **For more details, see my coursework and achievements:**  
+<a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Education Details</a>
 
 <a name="Projects"></a>
 <hr>
@@ -29,7 +34,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <p>Here are some of my projects throughout the courses:</p>
 <ul>
   <li><a href="https://github.com/MouyseangAn/Sephora-Website-Data-Analysis-Project">Project 1: Sephora Data Analysis</a></li>
-  <li><a href="https://github.com/MouyseangAn/NHL-for-Newbies-Blog">Project 2:From Newbie to Know-it-all: The Hockey Game </a></li>
+  <li><a href="https://github.com/MouyseangAn/NHL-for-Newbies-Blog">Project 2: From Newbie to Know-it-all: The Hockey Game</a></li>
   <li><a href="https://github.com/MouyseangAn/Outfit-Color-Suggestion">Project 3: Outfit Color Suggestion</a></li>
   <li><a href="https://github.com/MouyseangAn/Jewelry-Databases-Project">Project 4: Jewelry Database Project</a></li>
   <li><a href="https://github.com/MouyseangAn/Jewelry-Data-Warehouse-Project">Project 5: Jewelry Data Warehouse Project</a></li>
@@ -40,7 +45,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 ## Jobs and Internships
 <i>See my [LinkedIn](https://www.linkedin.com/in/mouyseangan03/)</i>
-
 
 <a name="skills"></a>
 <hr>
@@ -87,5 +91,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <hr>
 
 ## Extracurricular Activities
-see my extracurricular: 
+<p>Here are some of my involvements outside of academics:</p>
 
+</ul>
