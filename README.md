@@ -87,10 +87,5 @@ A multicultural data analyst who leverages quantitative methods and data visuali
   </tr>
 </table>
 
-<a name="Extracurricular"></a>
-<hr>
 
-## Extracurricular Activities
-<p>Here are some of my involvements outside of academics:</p>
 
-</ul>
