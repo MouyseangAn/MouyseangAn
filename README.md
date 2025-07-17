@@ -37,6 +37,7 @@ A multicultural data analyst who leverages quantitative methods and data visuali
   <li><a href="https://github.com/MouyseangAn/Outfit-Color-Suggestion">Project 3: Outfit Color Suggestion</a></li>
   <li><a href="https://github.com/MouyseangAn/Jewelry-Databases-Project">Project 4: Jewelry Database Project</a></li>
   <li><a href="https://github.com/MouyseangAn/Jewelry-Data-Warehouse-Project">Project 5: Jewelry Data Warehouse Project</a></li>
+  <li><a href="https://github.com/MouyseangAn/Text-Analysis-Project">Project 6: Text Analysis Project </a></li>
 </ul>
 
 <a name="profExp"></a>
