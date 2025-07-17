@@ -16,7 +16,7 @@ A multicultural data analyst who leverages quantitative methods and data visuali
 ## Education
 ### University of Denver, Daniels College of Business  
 **Bachelor of Science Business Administration – Business Information and Analytics**  
-* Graduated: June 2025*  
+* Graduated: June 2025 *  
 
 <ul>
   <li><b>Dean's List</b>: Recognition for outstanding academic achievement.</li>
