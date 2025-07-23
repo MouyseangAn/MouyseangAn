@@ -20,6 +20,7 @@ A multicultural data analyst who leverages quantitative methods and data visuali
 
 <ul>
   <li><b>Dean's List</b>: Recognition for outstanding academic achievement.</li>
+  <li><b>Daniels student Spotlight</b>: Recognition for excellence as a Daniels Ambassador</li>
   <li><b>1st place in the 2024 Inclusive Excellence Case Competition</b>: Awarded for exceptional teamwork and problem-solving.</li>
 </ul>
 
@@ -38,6 +39,7 @@ A multicultural data analyst who leverages quantitative methods and data visuali
   <li><a href="https://github.com/MouyseangAn/Jewelry-Databases-Project">Project 4: Jewelry Database Project</a></li>
   <li><a href="https://github.com/MouyseangAn/Jewelry-Data-Warehouse-Project">Project 5: Jewelry Data Warehouse Project</a></li>
   <li><a href="https://github.com/MouyseangAn/Text-Analysis-Project">Project 6: Text Analysis Project </a></li>
+  
 </ul>
 
 <a name="profExp"></a>
